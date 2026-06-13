@@ -34,7 +34,7 @@ Instagram: @crazy_boy_jahid
 যদি আপনি কোনো কারণে BDIX BYPASS সিস্টেমটি আপনার রাউটার থেকে পুরোপুরি সরিয়ে ফেলতে চান, তবে নিচের কমান্ডটি SSH টার্মিনালে রান করুন:
 
 ```bash
-wget -O- https://raw.githubusercontent.com/jahid421/OpenWrt-BDIX-Bypass-By-Jahid-Hasan-Shuvo/refs/heads/main/uninstall.sh  | sh
+wget -O- https://raw.githubusercontent.com/jahid421/OpenWrt-BDIX-Bypass-By-Jahid-Hasan-Shuvo/refs/heads/main/uninstall.sh | sh
 ```
 
 এই আনইনস্টল স্ক্রিপ্টটি যা যা করবে:
