@@ -1,6 +1,5 @@
 # OpenWrt-BDIX-Bypass-By-Jahid-Hasan-Shuvo
 
-
 # OpenWrt BDIX Bypass Pro
 
 আপনার OpenWrt রাউটারের জন্য একটি প্রিমিয়াম এবং হাই-স্পিড **BDIX Bypass** সলিউশন। এটি Redsocks প্রোটোকল ব্যবহার করে আপনার ট্রাফিককে অপ্টিমাইজ করে এবং একটি অত্যাধুনিক, রেসপনসিভ LuCI ইন্টারফেসের মাধ্যমে সার্ভিস কন্ট্রোল করার সুবিধা দেয়।
@@ -17,4 +16,4 @@
 আপনার রাউটারে **SSH** দিয়ে লগইন করুন এবং নিচের কমান্ডটি কপি করে পেস্ট করুন:
 
 ```bash
-wget -O- [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)[YOUR_USERNAME]/[YOUR_REPO_NAME]/main/install.sh | sh
+wget -O- https://raw.githubusercontent.com/jahid421/OpenWrt-BDIX-Bypass-By-Jahid-Hasan-Shuvo/refs/heads/main/install.sh | sh
