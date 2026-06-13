@@ -14,4 +14,17 @@
 আপনার রাউটারে **SSH** দিয়ে লগইন করুন এবং নিচের কমান্ডটি কপি করে পেস্ট করুন:
 
 ```bash
-wget -O- https://raw.githubusercontent.com/jahid421/OpenWrt-BDIX-Bypass-By-Jahid-Hasan-Shuvo/refs/heads/main/install.sh | sh
+wget -O- https://raw.githubusercontent.com/jahid421/OpenWrt-BDIX-Bypass-By-Jahid-Hasan-Shuvo/refs/heads/main/install.sh | sh ```bash
+
+
+## (দ্রষ্টব্য: কমান্ডটি চালানোর পর টার্মিনালে ইন্সটলেশন শেষ হওয়া পর্যন্ত অপেক্ষা করুন এবং শেষে আপনার ব্রাউজারে LuCI রিফ্রেশ দিন।)
+
+## ⚙️ Manual Settings
+ইন্সটলেশন শেষে, আপনি রাউটারের LuCI প্যানেলে লগইন করে Services মেনুর অধীনে BDIX_BYPASS ট্যাবে আপনার প্রক্সি সেটিংস আপডেট করতে পারবেন।
+
+## 👨‍💻 Developer
+## এই প্রজেক্টটি ডেভেলপ করেছেন: Jahid Hasan Shuvo
+
+##Instagram: @crazy_boy_jahid
+
+## আপনার যদি এই টুলটি ভালো লেগে থাকে, তবে GitHub রিপোজিটরিতে একটি ⭐ দিতে ভুলবেন না!
