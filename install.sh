@@ -1,9 +1,11 @@
 #!/bin/sh
+
 echo "========================================================"
 echo "   BDIX BYPASS - AUTO INSTALLER (BACKEND + FRONTEND)    "
 echo "   Developed by: Jahid Hasan Shuvo (@crazy_boy_jahid)   "
 echo "========================================================"
 sleep 2
+
 echo -e "\n[1/4] Installing Required Packages..."
 opkg update
 opkg install luci-compat lua liblua5.1.5 luci-lib-base iptables-legacy iptables-mod-nat-extra redsocks
