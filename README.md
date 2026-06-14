@@ -52,7 +52,7 @@ Remove Files: রাউটারে থাকা সব সার্ভিস �
 Menu Cleanup: মেনু থেকে BDIX_BYPASS অপশনটি সরিয়ে দিবে।
 
 
-### Keywords
+## Keywords
 OpenWrt BDIX Bypass, BDIX Routing for OpenWrt, LuCI BDIX Dashboard, Jahid Hasan Shuvo, BDIX Speed Optimization, OpenWrt Network Tools.
 
 Cache Reset: সিস্টেম ক্যাশ ক্লিয়ার করে সবকিছু আগের মতো ক্লিন করে দিবে।
