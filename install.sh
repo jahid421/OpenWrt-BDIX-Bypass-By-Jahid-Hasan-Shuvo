@@ -71,7 +71,6 @@ EOF
 
 # service enable and start
 /etc/init.d/redsocks enable
-/etc/init.d/redsocks start
 
 
 echo -e "\n[3/4] Configuring LuCI UI (Frontend)..."
