@@ -19,8 +19,16 @@ Tested on [TP-Link, Xiaomi, Linksys].
 
 আপনার রাউটারে **SSH** দিয়ে লগইন করুন এবং নিচের কমান্ডটি কপি করে পেস্ট করুন:
 
+## For opnewrt 24.10 and older users
+
 ```bash
 opkg update && opkg install wget coreutils-nohup && wget -qO /tmp/install.sh https://raw.githubusercontent.com/jahid421/OpenWrt-BDIX-Dash/refs/heads/main/install.sh && sed -i 's/\r$//' /tmp/install.sh && sh /tmp/install.sh && rm /tmp/install.sh
+```
+
+## For opnewrt 25.12 and Update version Users
+
+```bash
+apk update && apk add wget coreutils-nohup && wget -qO /tmp/install.sh https://raw.githubusercontent.com/jahid421/OpenWrt-BDIX-Dash/refs/heads/main/install.sh && sed -i 's/\r$//' /tmp/install.sh && sh /tmp/install.sh && rm /tmp/install.sh
 ```
 
 ## (দ্রষ্টব্য: কমান্ডটি চালানোর পর টার্মিনালে ইন্সটলেশন শেষ হওয়া পর্যন্ত অপেক্ষা করুন এবং শেষে আপনার ব্রাউজারে LuCI রিফ্রেশ দিন।)
